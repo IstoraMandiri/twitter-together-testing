@@ -100,7 +100,9 @@ retweet: https://twitter.com/testing_tt_/status/1576505043838181377
 
 https://github.com/IstoraMandiri/twitter-together-testing/pull/8
 
-FAILING: https://github.com/IstoraMandiri/twitter-together-testing/actions/runs/3168209652
+PREVIEW PASSING: https://github.com/IstoraMandiri/twitter-together-testing/actions/runs/3168205724
+
+PUBLISH FAILING: https://github.com/IstoraMandiri/twitter-together-testing/actions/runs/3168209652
 
 ```tweet
 ---
@@ -112,7 +114,9 @@ retweet: https://twitter.com/testing_tt_/status/1576462993302372355#blah
 
 https://github.com/IstoraMandiri/twitter-together-testing/pull/9
 
-FAILING: https://github.com/IstoraMandiri/twitter-together-testing/actions/runs/3168219858
+PREVIEW PASSING: https://github.com/IstoraMandiri/twitter-together-testing/actions/runs/3168218932
+
+PUBLISH FAILING: https://github.com/IstoraMandiri/twitter-together-testing/actions/runs/3168219858
 
 ```tweet
 ---
@@ -121,6 +125,12 @@ retweet: https://twitter.com/testing_tt_/status/1576508832418873349?cxt=xxx
 ```
 
 ### URL with `mobile` subdomain
+
+https://github.com/IstoraMandiri/twitter-together-testing/pull/9
+
+PREVIEW PASSING: https://github.com/IstoraMandiri/twitter-together-testing/actions/runs/3168231352
+
+PUBLISH FAILING: https://github.com/IstoraMandiri/twitter-together-testing/actions/runs/3168233222
 
 ```tweet
 ---
