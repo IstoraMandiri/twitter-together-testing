@@ -21,22 +21,24 @@ What is your favorite color?
 
 ### Reply
 
+https://github.com/IstoraMandiri/twitter-together-testing/pull/3
+
 ```tweet
 ---
-reply: https://twitter.com/gr2m/status/1409601188362809349
+reply: https://twitter.com/testing_tt_/status/1576496789741391872
 ---
 
-@gr2m I love your work!
+You forgot about orange!
 ```
 
 ### Retweet
 
 ```tweet
 ---
-retweet: https://twitter.com/gr2m/status/1409601188362809349
+retweet: https://twitter.com/testing_tt_/status/1576500683087302656
 ---
 
-twitter-together is awesome!
+Whoops!
 ```
 
 ### Media
