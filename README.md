@@ -45,6 +45,8 @@ Whoops!
 
 ### Media
 
+https://github.com/IstoraMandiri/twitter-together-testing/pull/5
+
 ```tweet
 ---
 media:
@@ -63,24 +65,21 @@ https://unsplash.com/photos/Mv9hjnEUHR4
 ### Threading
 
 ```tweet
----
-media:
-  - file: cat.jpg
-    alt: A cat
-  - file: dog.jpg
-    alt: A dog
----
-
-Here are some cute animals!
+🧵 Here is a thread...
 
 ---
 ---
 poll:
-  - Cat
-  - Dog
+  - Banana
+  - Mango
 ---
 
-Which one is cuter?
+Which fruit is more delicious?
+
+---
+We hope you enjoyed this thread...
+---
+We certainly did.
 ```
 
 ## Edge Cases
