@@ -88,6 +88,8 @@ We certainly did.
 
 ### Trailing Space
 
+https://github.com/IstoraMandiri/twitter-together-testing/pull/7
+
 ```tweet
 ---
 retweet: https://twitter.com/testing_tt_/status/1576505043838181377
@@ -97,17 +99,23 @@ retweet: https://twitter.com/testing_tt_/status/1576505043838181377
 ### URL with Hash
 
 ```tweet
+---
 retweet: https://twitter.com/testing_tt_/status/1576462993302372355#blah
+---
 ```
 
 ### URL with Mock Tracker
 
 ```tweet
+---
 retweet: https://twitter.com/testing_tt_/status/1576508832418873349?cxt=xxx
+---
 ```
 
 ### Tweet ID Only
 
 ```tweet
+---
 retweet: 1575820698877980672
+---
 ```
