@@ -1,4 +1,4 @@
-Testing https://github.com/IstoraMandiri/twitter-together
+This repo contains in-production tests of https://github.com/IstoraMandiri/twitter-together, which is using the Twitter v2 API via https://github.com/twitter-together/action/tree/MattIPv4/twitter-v2-api.
 
 ---
 
@@ -33,6 +33,8 @@ You forgot about orange!
 
 ### Retweet
 
+https://github.com/IstoraMandiri/twitter-together-testing/pull/4
+
 ```tweet
 ---
 retweet: https://twitter.com/testing_tt_/status/1576500683087302656
@@ -55,6 +57,8 @@ media:
 Here are some cute animals!
 ```
 
+https://unsplash.com/photos/yMSecCHsIBc
+https://unsplash.com/photos/Mv9hjnEUHR4
 
 ### Threading
 
