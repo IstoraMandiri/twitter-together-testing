@@ -110,13 +110,27 @@ retweet: https://twitter.com/testing_tt_/status/1576462993302372355#blah
 
 ### URL with Mock Tracker
 
+https://github.com/IstoraMandiri/twitter-together-testing/pull/9
+
+FAILING: https://github.com/IstoraMandiri/twitter-together-testing/actions/runs/3168219858
+
 ```tweet
 ---
 retweet: https://twitter.com/testing_tt_/status/1576508832418873349?cxt=xxx
 ---
 ```
 
+### URL with `mobile` subdomain
+
+```tweet
+---
+retweet: https://mobile.twitter.com/testing_tt_/status/1575820698877980672
+---
+```
+
 ### Tweet ID Only
+
+TODO: Not implemented
 
 ```tweet
 ---
