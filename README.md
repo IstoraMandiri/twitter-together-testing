@@ -126,7 +126,7 @@ retweet: https://twitter.com/testing_tt_/status/1576508832418873349?cxt=xxx
 
 ### URL with `mobile` subdomain
 
-https://github.com/IstoraMandiri/twitter-together-testing/pull/9
+https://github.com/IstoraMandiri/twitter-together-testing/pull/10
 
 PREVIEW PASSING: https://github.com/IstoraMandiri/twitter-together-testing/actions/runs/3168231352
 
