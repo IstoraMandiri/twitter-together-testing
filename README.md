@@ -4,6 +4,12 @@ This repo contains in-production tests of https://github.com/IstoraMandiri/twitt
 
 ## Tweet Types
 
+### Simple Tweet
+
+```tweet
+Hello, world!
+```
+
 ### Poll
 
 https://github.com/IstoraMandiri/twitter-together-testing/pull/2
