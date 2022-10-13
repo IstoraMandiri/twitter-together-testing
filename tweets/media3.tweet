@@ -4,8 +4,8 @@ media:
     alt: A cat
   - file: cat2.jpg
     alt: Another Cat
-  - file: dog.jpg
-    alt: A dog
+  - file: nested/media/doggie/dog.jpg
+    alt: A nested dog
 ---
 
 Here are some more animals!
