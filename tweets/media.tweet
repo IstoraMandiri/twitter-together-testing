@@ -1,9 +1,7 @@
 ---
 media:
-  - file: cat.jpg
-    alt: A cat
-  - file: dog.jpg
-    alt: A dog
+  - file: cat2.jpg
+    alt: Another cat
 ---
 
-Here are some cute animals!
+Just a cat.
