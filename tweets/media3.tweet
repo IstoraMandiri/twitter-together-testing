@@ -1,0 +1,11 @@
+---
+media:
+  - file: cat.jpg
+    alt: A cat
+  - file: cat2.jpg
+    alt: Another Cat
+  - file: dog.jpg
+    alt: A dog
+---
+
+Here are some more animals!
