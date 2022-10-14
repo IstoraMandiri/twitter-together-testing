@@ -1,21 +1,4 @@
 ---
-retweet: https://twitter.com/ETC_Network/status/1578338806083854336
----
-
-Hmm?
-
----
-
-Thread testing
-
----
----
-retweet: https://twitter.com/ETC_Network/status/1578338806083854336
----
-
----
-
----
 media:
   - file: cat.jpg
     alt: A cat
@@ -25,4 +8,11 @@ media:
 
 Here are some cute animals!
 
-Okay?
+---
+---
+poll:
+  - Cat
+  - Dog
+---
+
+Which one is cuter?
