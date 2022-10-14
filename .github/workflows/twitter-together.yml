@@ -7,13 +7,12 @@ jobs:
     if: github.event_name == 'pull_request_target'
     permissions:
       pull-requests: write
-      checks: write
     steps:
       - name: checkout pull request
         uses: actions/checkout@v3
         with:
           ref: ${{ github.event.pull_request.head.sha }}    
-      - name: Validate Tweets PRT
+      - name: Validate Tweets
         uses: IstoraMandiri/twitter-together@etc-dev
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
