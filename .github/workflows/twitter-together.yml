@@ -1,19 +1,6 @@
 on: [push, pull_request, pull_request_target]
 name: Twitter, together!
 jobs:
-  preview:
-    name: Preview PR
-    runs-on: ubuntu-latest
-    if: github.event_name == 'pull_request'
-    steps:
-      - name: checkout pull request
-        uses: actions/checkout@v3
-        with:
-          ref: ${{ github.event.pull_request.head.sha }}    
-      - name: Validate Tweets PR
-        uses: IstoraMandiri/twitter-together@etc-dev
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   preview_target:
     name: Preview PR Target
     runs-on: ubuntu-latest
