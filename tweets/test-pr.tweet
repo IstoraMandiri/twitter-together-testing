@@ -12,12 +12,17 @@ Thread testing
 ---
 retweet: https://twitter.com/ETC_Network/status/1578338806083854336
 ---
+
 ---
+
 ---
 media:
   - file: cat.jpg
-    alt: This is a cat
+    alt: A cat
   - file: dog.jpg
-    alt: This is a cat
+    alt: A dog
 ---
+
+Here are some cute animals!
+
 Okay?
