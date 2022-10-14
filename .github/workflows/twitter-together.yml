@@ -1,13 +1,12 @@
 on: [push, pull_request, pull_request_target]
 name: Twitter, together!
 jobs:
-  preview_target:
+  preview:
     name: Preview PR Target
     runs-on: ubuntu-latest
     if: github.event_name == 'pull_request_target'
     permissions:
       pull-requests: write
-      checks: write
     steps:
       - name: checkout pull request
         uses: actions/checkout@v3
